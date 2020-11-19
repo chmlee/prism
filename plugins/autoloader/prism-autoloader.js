@@ -101,6 +101,7 @@
 		"qml": "javascript",
 		"qore": "clike",
 		"racket": "scheme",
+		"ream": "markup",
 		"jsx": [
 			"markup",
 			"javascript"

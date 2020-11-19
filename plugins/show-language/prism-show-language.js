@@ -157,6 +157,7 @@
 		"q": "Q (kdb+ database)",
 		"qml": "QML",
 		"rkt": "Racket",
+		"ream": "REAM",
 		"jsx": "React JSX",
 		"tsx": "React TSX",
 		"renpy": "Ren'py",

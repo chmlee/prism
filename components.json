@@ -958,6 +958,11 @@
 			"alias": "rkt",
 			"owner": "RunDevelopment"
 		},
+		"ream": {
+			"title": "REAM",
+			"require": "markup",
+			"owner": "chmlee"
+		},
 		"jsx": {
 			"title": "React JSX",
 			"require": ["markup", "javascript"],
