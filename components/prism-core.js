@@ -1135,6 +1135,8 @@ if (typeof global !== 'undefined') {
 	global.Prism = Prism;
 }
 
+console.log(languages)
+
 // some additional documentation/types
 
 /**
